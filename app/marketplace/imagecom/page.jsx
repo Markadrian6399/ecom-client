@@ -10,8 +10,6 @@ import React from "react";
 // }
 
 const page = () => {
-  const data = getData();
-  console.log("data");
   return (
     <div>
       <ImageGallery />
